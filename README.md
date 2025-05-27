@@ -44,7 +44,7 @@
 
 #### 输出结果：
 
-*   采集完成后，节点数据会被保存在项目目录下的某个路径中，例如`/data/raw_nodes.json`或直接生成`clash.yaml`配置文件。
+*   采集完成后，节点数据会被保存在项目目录下，`/content/aggregator/data/clash.yaml`或直接生成`clash.yaml`配置文件。
 
 
 ### 2.节点处理器
